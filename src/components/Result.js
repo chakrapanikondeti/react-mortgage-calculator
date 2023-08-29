@@ -30,7 +30,7 @@ const Result = ({ data }) => {
       },
     ],
   };
-  //abc
+
   return (
     <Stack gap={3}>
       <Typography textAlign="center" variant="h5">
