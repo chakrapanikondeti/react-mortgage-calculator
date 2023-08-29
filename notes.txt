@@ -1,0 +1,5 @@
+Props:-
+
+InOrder to customise the component according to 
+our needs we use "props".
+---------------------------------------------------------
